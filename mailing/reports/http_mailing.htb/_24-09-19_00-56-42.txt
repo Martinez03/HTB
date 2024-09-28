@@ -1,0 +1,37 @@
+# Dirsearch started Thu Sep 19 00:57:21 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://mailing.htb -e* -t 100
+
+403   312B   http://mailing.htb/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+403   312B   http://mailing.htb/%2e%2e//google.com
+404     2KB  http://mailing.htb/.ashx
+404     2KB  http://mailing.htb/.asmx
+403   312B   http://mailing.htb/\..\..\..\..\..\..\..\..\..\etc\passwd
+404     2KB  http://mailing.htb/admin%20/
+404     2KB  http://mailing.htb/admin.
+404     2KB  http://mailing.htb/asset..
+301   160B   http://mailing.htb/assets    -> REDIRECTS TO: http://mailing.htb/assets/
+200   541B   http://mailing.htb/assets/
+403   312B   http://mailing.htb/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+400     4KB  http://mailing.htb/docpicker/internal_proxy/https/127.0.0.1:9043/ibm/console
+200    31B   http://mailing.htb/download.php
+404     2KB  http://mailing.htb/index.php.
+404     2KB  http://mailing.htb/javax.faces.resource.../
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmLog/output=!/tmp!/pwned
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmSystemProperties
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmLog/disable
+400     4KB  http://mailing.htb/jolokia/read/java.lang:type=Memory/HeapMemoryUsage/used
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/jvmtiAgentLoad/!/etc!/passwd
+400     4KB  http://mailing.htb/jolokia/read/java.lang:type=*/HeapMemoryUsage
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+400     4KB  http://mailing.htb/jolokia/exec/java.lang:type=Memory/gc
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/jfrStart/filename=!/tmp!/foo
+400     4KB  http://mailing.htb/jolokia/search/*:j2eeType=J2EEServer,*
+400     4KB  http://mailing.htb/jolokia/exec/com.sun.management:type=DiagnosticCommand/help/*
+400     4KB  http://mailing.htb/jolokia/write/java.lang:type=Memory/Verbose/true
+404     2KB  http://mailing.htb/login.wdm%2e
+404     2KB  http://mailing.htb/rating_over.
+404     2KB  http://mailing.htb/service.asmx
+404     2KB  http://mailing.htb/static..
+403     2KB  http://mailing.htb/Trace.axd
+404     2KB  http://mailing.htb/umbraco/webservices/codeEditorSave.asmx
+404     2KB  http://mailing.htb/WEB-INF./
+404     2KB  http://mailing.htb/WebResource.axd?d=LER8t9aS

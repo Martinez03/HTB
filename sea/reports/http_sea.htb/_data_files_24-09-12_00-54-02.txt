@@ -1,0 +1,7 @@
+# Dirsearch started Thu Sep 12 00:55:30 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://sea.htb/data/files -e*
+
+200     1KB  http://sea.htb/data/files/404
+200     1KB  http://sea.htb/data/files/admin/home
+200     1KB  http://sea.htb/data/files/home
+200     1KB  http://sea.htb/data/files/sitecore/content/home
+200     1KB  http://sea.htb/data/files/sym/root/home/

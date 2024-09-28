@@ -1,0 +1,11 @@
+# Dirsearch started Thu Sep 12 00:57:15 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://sea.htb/themes/bike -e*
+
+200     1KB  http://sea.htb/themes/bike/404
+200     1KB  http://sea.htb/themes/bike/admin/home
+301   239B   http://sea.htb/themes/bike/css    -> REDIRECTS TO: http://sea.htb/themes/bike/css/
+200     1KB  http://sea.htb/themes/bike/home
+301   239B   http://sea.htb/themes/bike/img    -> REDIRECTS TO: http://sea.htb/themes/bike/img/
+200     1KB  http://sea.htb/themes/bike/LICENSE
+200   318B   http://sea.htb/themes/bike/README.md
+200     1KB  http://sea.htb/themes/bike/sitecore/content/home
+200     1KB  http://sea.htb/themes/bike/sym/root/home/

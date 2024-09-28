@@ -1,0 +1,3 @@
+# Dirsearch started Tue Sep 17 00:18:26 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://2million.htb/api/v1/admin -e* -t 100
+
+401     0B   http://2million.htb/api/v1/admin/auth

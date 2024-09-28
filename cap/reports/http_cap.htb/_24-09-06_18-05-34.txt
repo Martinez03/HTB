@@ -1,0 +1,7 @@
+# Dirsearch started Fri Sep  6 18:05:51 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cap.htb -e*
+
+302   208B   http://cap.htb/data    -> REDIRECTS TO: http://cap.htb/
+302   208B   http://cap.htb/data/autosuggest    -> REDIRECTS TO: http://cap.htb/
+302   208B   http://cap.htb/data/adminer.php    -> REDIRECTS TO: http://cap.htb/
+302   208B   http://cap.htb/download/history.csv    -> REDIRECTS TO: http://cap.htb/
+302   208B   http://cap.htb/download/users.csv    -> REDIRECTS TO: http://cap.htb/

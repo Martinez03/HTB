@@ -1,0 +1,11 @@
+# Dirsearch started Sat Sep 14 17:57:09 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://monitorsthree.htb -e*
+
+301   178B   http://monitorsthree.htb/js    -> REDIRECTS TO: http://monitorsthree.htb/js/
+301   178B   http://monitorsthree.htb/admin    -> REDIRECTS TO: http://monitorsthree.htb/admin/
+403   564B   http://monitorsthree.htb/admin/
+301   178B   http://monitorsthree.htb/css    -> REDIRECTS TO: http://monitorsthree.htb/css/
+301   178B   http://monitorsthree.htb/fonts    -> REDIRECTS TO: http://monitorsthree.htb/fonts/
+301   178B   http://monitorsthree.htb/images    -> REDIRECTS TO: http://monitorsthree.htb/images/
+403   564B   http://monitorsthree.htb/images/
+403   564B   http://monitorsthree.htb/js/
+200     4KB  http://monitorsthree.htb/login.php

@@ -1,0 +1,29 @@
+# Dirsearch started Fri Sep  6 18:07:55 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cap.htb/data -e*
+
+200    17KB  http://cap.htb/data/00
+200    17KB  http://cap.htb/data/0
+200    17KB  http://cap.htb/data/03
+200    17KB  http://cap.htb/data/02
+200    17KB  http://cap.htb/data/04
+200    17KB  http://cap.htb/data/01
+200    17KB  http://cap.htb/data/05
+200    17KB  http://cap.htb/data/06
+200    17KB  http://cap.htb/data/07
+200    17KB  http://cap.htb/data/1
+200    17KB  http://cap.htb/data/11
+200    17KB  http://cap.htb/data/13
+200    17KB  http://cap.htb/data/08
+200    17KB  http://cap.htb/data/10
+200    17KB  http://cap.htb/data/2
+200    17KB  http://cap.htb/data/09
+200    17KB  http://cap.htb/data/12
+200    17KB  http://cap.htb/data/16
+200    17KB  http://cap.htb/data/15
+200    17KB  http://cap.htb/data/14
+200    17KB  http://cap.htb/data/4
+200    17KB  http://cap.htb/data/3
+200    17KB  http://cap.htb/data/6
+200    17KB  http://cap.htb/data/5
+200    17KB  http://cap.htb/data/7
+200    17KB  http://cap.htb/data/8
+200    17KB  http://cap.htb/data/9

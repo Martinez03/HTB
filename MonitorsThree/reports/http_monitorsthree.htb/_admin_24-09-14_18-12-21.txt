@@ -1,0 +1,7 @@
+# Dirsearch started Sat Sep 14 18:14:03 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://monitorsthree.htb/admin -e* -t 100
+
+301   178B   http://monitorsthree.htb/admin/assets    -> REDIRECTS TO: http://monitorsthree.htb/admin/assets/
+302     0B   http://monitorsthree.htb/admin/dashboard.php    -> REDIRECTS TO: /login.php
+200     0B   http://monitorsthree.htb/admin/db.php
+200   303B   http://monitorsthree.htb/admin/footer.php
+302     0B   http://monitorsthree.htb/admin/logout.php    -> REDIRECTS TO: /login.php

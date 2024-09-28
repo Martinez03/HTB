@@ -1,0 +1,33 @@
+# Dirsearch started Thu Jun 27 23:58:55 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://boardlight.htb -e*
+
+301   313B   http://boardlight.htb/js    -> REDIRECTS TO: http://boardlight.htb/js/
+200     2KB  http://boardlight.htb/do.php
+403   279B   http://boardlight.htb/.ht_wsr.txt
+403   279B   http://boardlight.htb/.htaccess.bak1
+403   279B   http://boardlight.htb/.htaccess.orig
+403   279B   http://boardlight.htb/.htaccessBAK
+403   279B   http://boardlight.htb/.htaccessOLD2
+403   279B   http://boardlight.htb/.htaccess.save
+403   279B   http://boardlight.htb/.htaccess.sample
+403   279B   http://boardlight.htb/.htm
+403   279B   http://boardlight.htb/.htaccess_orig
+403   279B   http://boardlight.htb/.htaccess_extra
+403   279B   http://boardlight.htb/.htaccessOLD
+403   279B   http://boardlight.htb/.htaccess_sc
+403   279B   http://boardlight.htb/.htpasswd_test
+403   279B   http://boardlight.htb/.httr-oauth
+403   279B   http://boardlight.htb/.htpasswds
+403   279B   http://boardlight.htb/.html
+403   279B   http://boardlight.htb/.php
+200     2KB  http://boardlight.htb/about.php
+404    16B   http://boardlight.htb/composer.phar
+200     2KB  http://boardlight.htb/contact.php
+301   314B   http://boardlight.htb/css    -> REDIRECTS TO: http://boardlight.htb/css/
+403   279B   http://boardlight.htb/images/
+301   317B   http://boardlight.htb/images    -> REDIRECTS TO: http://boardlight.htb/images/
+403   279B   http://boardlight.htb/js/
+404    16B   http://boardlight.htb/php-cs-fixer.phar
+403   279B   http://boardlight.htb/php5.fcgi
+404    16B   http://boardlight.htb/phpunit.phar
+403   279B   http://boardlight.htb/server-status
+403   279B   http://boardlight.htb/server-status/

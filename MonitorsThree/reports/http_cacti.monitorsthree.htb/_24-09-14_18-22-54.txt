@@ -1,0 +1,6 @@
+# Dirsearch started Sat Sep 14 18:23:44 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cacti.monitorsthree.htb -e* -t 100
+
+301   178B   http://cacti.monitorsthree.htb/app    -> REDIRECTS TO: http://cacti.monitorsthree.htb/app/
+200    13KB  http://cacti.monitorsthree.htb/app/
+301   178B   http://cacti.monitorsthree.htb/cacti    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/
+200    14KB  http://cacti.monitorsthree.htb/cacti/

@@ -1,0 +1,35 @@
+# Dirsearch started Sat Sep 14 18:27:24 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cacti.monitorsthree.htb/cacti -e* -t 100
+
+403   564B   http://cacti.monitorsthree.htb/cacti/.github/
+200     3KB  http://cacti.monitorsthree.htb/cacti/.gitignore
+200    14KB  http://cacti.monitorsthree.htb/cacti/about.php
+301   178B   http://cacti.monitorsthree.htb/cacti/cache    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/cache/
+302     0B   http://cacti.monitorsthree.htb/cacti/cache/    -> REDIRECTS TO: ../index.php
+302     0B   http://cacti.monitorsthree.htb/cacti/cli/    -> REDIRECTS TO: ../index.php
+200   272KB  http://cacti.monitorsthree.htb/cacti/CHANGELOG
+301   178B   http://cacti.monitorsthree.htb/cacti/docs    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/docs/
+302     0B   http://cacti.monitorsthree.htb/cacti/docs/    -> REDIRECTS TO: https://github.com/Cacti/documentation/blob/develop/README.md
+301   178B   http://cacti.monitorsthree.htb/cacti/images    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/images/
+302     0B   http://cacti.monitorsthree.htb/cacti/include/    -> REDIRECTS TO: ../index.php
+302     0B   http://cacti.monitorsthree.htb/cacti/images/    -> REDIRECTS TO: ../index.php
+301   178B   http://cacti.monitorsthree.htb/cacti/include    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/include/
+302     0B   http://cacti.monitorsthree.htb/cacti/install/index.php?upgrade/    -> REDIRECTS TO: install.php
+302     0B   http://cacti.monitorsthree.htb/cacti/install/    -> REDIRECTS TO: install.php
+301   178B   http://cacti.monitorsthree.htb/cacti/install    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/install/
+301   178B   http://cacti.monitorsthree.htb/cacti/lib    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/lib/
+302     0B   http://cacti.monitorsthree.htb/cacti/lib/    -> REDIRECTS TO: ../index.php
+200    15KB  http://cacti.monitorsthree.htb/cacti/LICENSE
+301   178B   http://cacti.monitorsthree.htb/cacti/log    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/log/
+200    14KB  http://cacti.monitorsthree.htb/cacti/links.php
+302     0B   http://cacti.monitorsthree.htb/cacti/log/    -> REDIRECTS TO: ../index.php
+302     0B   http://cacti.monitorsthree.htb/cacti/logout.php    -> REDIRECTS TO: index.php
+301   178B   http://cacti.monitorsthree.htb/cacti/plugins    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/plugins/
+302     0B   http://cacti.monitorsthree.htb/cacti/plugins/    -> REDIRECTS TO: ../index.php
+200    11KB  http://cacti.monitorsthree.htb/cacti/README.md
+301   178B   http://cacti.monitorsthree.htb/cacti/resource    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/resource/
+301   178B   http://cacti.monitorsthree.htb/cacti/scripts    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/scripts/
+302     0B   http://cacti.monitorsthree.htb/cacti/scripts/    -> REDIRECTS TO: ../index.php
+301   178B   http://cacti.monitorsthree.htb/cacti/service?Wsdl    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/service/?Wsdl
+301   178B   http://cacti.monitorsthree.htb/cacti/service    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/service/
+301   178B   http://cacti.monitorsthree.htb/cacti/tests    -> REDIRECTS TO: http://cacti.monitorsthree.htb/cacti/tests/
+403   564B   http://cacti.monitorsthree.htb/cacti/tests/

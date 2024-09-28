@@ -1,0 +1,19 @@
+# Dirsearch started Sat Jul 13 14:43:53 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://permx.htb/lib/ -e*
+
+403   274B   http://permx.htb/lib/.ht_wsr.txt
+403   274B   http://permx.htb/lib/.htaccess.bak1
+403   274B   http://permx.htb/lib/.htaccess.orig
+403   274B   http://permx.htb/lib/.htaccess.save
+403   274B   http://permx.htb/lib/.htaccess.sample
+403   274B   http://permx.htb/lib/.htaccess_extra
+403   274B   http://permx.htb/lib/.htaccess_orig
+403   274B   http://permx.htb/lib/.htaccess_sc
+403   274B   http://permx.htb/lib/.htaccessBAK
+403   274B   http://permx.htb/lib/.htaccessOLD
+403   274B   http://permx.htb/lib/.htaccessOLD2
+403   274B   http://permx.htb/lib/.htm
+403   274B   http://permx.htb/lib/.html
+403   274B   http://permx.htb/lib/.htpasswd_test
+403   274B   http://permx.htb/lib/.htpasswds
+403   274B   http://permx.htb/lib/.httr-oauth
+403   274B   http://permx.htb/lib/.php

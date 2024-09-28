@@ -1,0 +1,4 @@
+# Dirsearch started Thu Apr 11 00:11:33 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.8:5000/ -e*
+
+401   317B   http://10.10.11.8:5000/dashboard
+200     2KB  http://10.10.11.8:5000/support

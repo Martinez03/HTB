@@ -1,0 +1,3 @@
+# Dirsearch started Sun Mar  3 12:44:29 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://perfection.htb -e* -o directories.txt
+
+200     4KB  http://perfection.htb/about

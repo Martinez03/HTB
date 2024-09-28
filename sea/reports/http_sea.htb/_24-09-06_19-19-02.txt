@@ -1,0 +1,38 @@
+# Dirsearch started Fri Sep  6 19:19:35 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://sea.htb
+
+403   199B   http://sea.htb/%3f/
+403   199B   http://sea.htb/.ht_wsr.txt
+403   199B   http://sea.htb/.htaccess.bak1
+403   199B   http://sea.htb/.htaccess.orig
+403   199B   http://sea.htb/.htaccess.sample
+403   199B   http://sea.htb/.htaccess.save
+403   199B   http://sea.htb/.htaccess_extra
+403   199B   http://sea.htb/.htaccess_orig
+403   199B   http://sea.htb/.htaccess_sc
+403   199B   http://sea.htb/.htaccessOLD
+403   199B   http://sea.htb/.htaccessBAK
+403   199B   http://sea.htb/.htaccessOLD2
+403   199B   http://sea.htb/.html
+403   199B   http://sea.htb/.htm
+403   199B   http://sea.htb/.htpasswds
+403   199B   http://sea.htb/.httr-oauth
+403   199B   http://sea.htb/.htpasswd_test
+403   199B   http://sea.htb/.php
+200     1KB  http://sea.htb/404
+403   199B   http://sea.htb/admin%20/
+200   939B   http://sea.htb/contact.php
+301   228B   http://sea.htb/data    -> REDIRECTS TO: http://sea.htb/data/
+403   199B   http://sea.htb/data/
+403   199B   http://sea.htb/data/files/
+403   199B   http://sea.htb/login.wdm%20
+301   232B   http://sea.htb/messages    -> REDIRECTS TO: http://sea.htb/messages/
+403   199B   http://sea.htb/New%20Folder
+403   199B   http://sea.htb/New%20folder%20(2)
+403   199B   http://sea.htb/phpliteadmin%202.php
+301   231B   http://sea.htb/plugins    -> REDIRECTS TO: http://sea.htb/plugins/
+403   199B   http://sea.htb/plugins/
+403   199B   http://sea.htb/Read%20Me.txt
+403   199B   http://sea.htb/server-status/
+403   199B   http://sea.htb/server-status
+403   199B   http://sea.htb/themes/
+301   230B   http://sea.htb/themes    -> REDIRECTS TO: http://sea.htb/themes/

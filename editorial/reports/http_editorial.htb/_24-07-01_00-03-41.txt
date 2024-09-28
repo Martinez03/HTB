@@ -1,0 +1,4 @@
+# Dirsearch started Mon Jul  1 00:04:15 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://editorial.htb -e*
+
+200     3KB  http://editorial.htb/about
+200     7KB  http://editorial.htb/upload
